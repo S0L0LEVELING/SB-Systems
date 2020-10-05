@@ -7,6 +7,8 @@ Systems Cuffing/ Hard and soft and much more
 
 You will have to add commands for a lot of these as I didn't need them figure it out
 
-# Any Issues Or Help 
+# Personal Discord
 
-https://discord.gg/gmAcpDU
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
