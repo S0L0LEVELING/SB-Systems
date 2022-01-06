@@ -11,4 +11,4 @@ You will have to add commands for a lot of these as I didn't need them figure it
 
 Talk about coding, updates on new and streams, first look on new stuff.
 
-https://discord.gg/dHXQsmzaEx
+https://discord.gg/3zTZpjMVFN
